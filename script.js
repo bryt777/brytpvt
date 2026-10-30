@@ -20,7 +20,7 @@ const profiles = {
   showcase: {
     title: "Showcase", eyebrow: "COMMUNITY", icon: "➤",
     description: "Visit my Telegram showcase and updates channel.",
-    detail: "t.me/xchup", url: "https://t.me/xchup", action: "Open showcase",
+    detail: "t.me/bryyyyyt", url: "https://t.me/bryyyyyt", action: "Open showcase",
     image: "https://cdn.simpleicons.org/telegram/5EE8C1", glow: "rgba(94,232,193,.28)"
   },
   bgmi: {
